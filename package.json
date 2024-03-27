@@ -1,0 +1,21 @@
+{
+  "name": "project02_atm_machine",
+  "version": "1.0.7",
+  "description": "",
+  "bin": {
+    "project02_atm_machine": "main.js"
+  },
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "project02_atm_machine": "^1.0.7"
+  }
+}
